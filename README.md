@@ -1,1 +1,2 @@
-# todo app using react redux and immutable
+# TODO app
+### using React Redux and Immutable
